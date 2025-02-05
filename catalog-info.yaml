@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: equinor/test-backstage
 spec:
-  type: other
+  type: website
   lifecycle: unknown
   owner: sw-enabling-team-developers
   
