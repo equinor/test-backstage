@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  namespace: default
+  name: subcomponent
+  description: Test-backstage subcomponent in the same repo
+  tags:
+    - yaml
+spec:
+  type: website
+  lifecycle: experimental
+  owner: sw-enabling-team-developers
